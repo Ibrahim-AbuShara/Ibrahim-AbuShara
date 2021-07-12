@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DJANGo**
 
-- 📫 How to reach me **ibrahimaymank27@gmail.com**
+- 📫 To reach me **ibrahimaymank27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
