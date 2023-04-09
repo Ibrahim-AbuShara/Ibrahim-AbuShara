@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-abushara&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-abushara" /> </p>
 
-- 🌱 I’m currently learning **DJANGo**
+- 🌱 I’m currently learning **AI&ML**
 
 - 📫 How to reach me **ibrahimaymank27@gmail.com**
 
