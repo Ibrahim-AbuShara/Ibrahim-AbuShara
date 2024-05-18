@@ -100,7 +100,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://avatars.githubusercontent.com/u/108039369?s=200&v=4](https://miro.medium.com/v2/resize:fit:720/format:webp/1*mQdMN7RYPkkenj7-QaG53A.jpeg)" alt="langchain" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="langchain" width="40" height="40"/> 
   </a>
 </p>
 
